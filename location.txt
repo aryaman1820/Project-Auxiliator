@@ -1,0 +1,7 @@
+C:\Users\khali\AppData\Local\Programs\Microsoft VS Code\code.exe
+C:\Program Files\JetBrains\PyCharm Community Edition 2022.1.1\bin\pycharm64.exe
+C:\Users\khali\AppData\Local\Programs\Cisco Spark\dependencies\CiscoCollabHostCef.exe
+C:\Program Files\Google\Chrome\Application\chrome.exe
+C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.83.408.0_x86__kzf8qxf38zg5c\Skype\skype.exe
+C:\Users\khali\AppData\Roaming\Zoom\bin\zoom.exe
+
